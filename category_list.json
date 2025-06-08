@@ -1,0 +1,140 @@
+{
+    "success": true,
+    "categories": [
+        {
+            "id": 1,
+            "name": "Abstract",
+            "phone_wallpaper_count": 4024
+        },
+        {
+            "id": 2,
+            "name": "Animal",
+            "phone_wallpaper_count": 6969
+        },
+        {
+            "id": 3,
+            "name": "Anime",
+            "phone_wallpaper_count": 32297
+        },
+        {
+            "id": 4,
+            "name": "Artistic",
+            "phone_wallpaper_count": 2224
+        },
+        {
+            "id": 7,
+            "name": "Celebrity",
+            "phone_wallpaper_count": 9471
+        },
+        {
+            "id": 8,
+            "name": "Comics",
+            "phone_wallpaper_count": 3264
+        },
+        {
+            "id": 9,
+            "name": "Dark",
+            "phone_wallpaper_count": 726
+        },
+        {
+            "id": 11,
+            "name": "Fantasy",
+            "phone_wallpaper_count": 2642
+        },
+        {
+            "id": 12,
+            "name": "Food",
+            "phone_wallpaper_count": 2400
+        },
+        {
+            "id": 13,
+            "name": "Funny",
+            "phone_wallpaper_count": 181
+        },
+        {
+            "id": 15,
+            "name": "Holiday",
+            "phone_wallpaper_count": 1233
+        },
+        {
+            "id": 16,
+            "name": "Man Made",
+            "phone_wallpaper_count": 3729
+        },
+        {
+            "id": 17,
+            "name": "Men",
+            "phone_wallpaper_count": 150
+        },
+        {
+            "id": 18,
+            "name": "Military",
+            "phone_wallpaper_count": 570
+        },
+        {
+            "id": 19,
+            "name": "Misc",
+            "phone_wallpaper_count": 255
+        },
+        {
+            "id": 20,
+            "name": "Movie",
+            "phone_wallpaper_count": 9978
+        },
+        {
+            "id": 22,
+            "name": "Music",
+            "phone_wallpaper_count": 3410
+        },
+        {
+            "id": 10,
+            "name": "Nature",
+            "phone_wallpaper_count": 6837
+        },
+        {
+            "id": 24,
+            "name": "Photography",
+            "phone_wallpaper_count": 1843
+        },
+        {
+            "id": 26,
+            "name": "Religious",
+            "phone_wallpaper_count": 449
+        },
+        {
+            "id": 27,
+            "name": "Sci Fi",
+            "phone_wallpaper_count": 2404
+        },
+        {
+            "id": 28,
+            "name": "Sports",
+            "phone_wallpaper_count": 3756
+        },
+        {
+            "id": 30,
+            "name": "Technology",
+            "phone_wallpaper_count": 900
+        },
+        {
+            "id": 29,
+            "name": "TV Show",
+            "phone_wallpaper_count": 6243
+        },
+        {
+            "id": 31,
+            "name": "Vehicles",
+            "phone_wallpaper_count": 3348
+        },
+        {
+            "id": 32,
+            "name": "Video Game",
+            "phone_wallpaper_count": 20349
+        },
+        {
+            "id": 33,
+            "name": "Women",
+            "phone_wallpaper_count": 11941
+        }
+    ]
+}
